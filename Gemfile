@@ -33,4 +33,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "cvless"
 gem 'jekyll-target-blank'
-
+gem 'jemoji'
