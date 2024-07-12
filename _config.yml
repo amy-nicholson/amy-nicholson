@@ -6,8 +6,8 @@ url: https://amygormley.co.uk
 theme: cvless
 
 # site settings
-taglong: Technical product owner
-tagshort: Amy
+taglong: "Technical product owner<br/>and problem solver"
+tagshort: "" 
 
 # author settings
 author:
@@ -23,3 +23,6 @@ social:
 permalink: pretty
 exclude:
   - README.md
+
+plugins:
+  - jekyll-target-blank
