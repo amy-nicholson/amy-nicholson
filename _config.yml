@@ -1,0 +1,28 @@
+title: Amy Gormley
+description: Amy Gormley's personal website
+baseurl: ""
+url: https://amygormley.co.uk
+
+theme: cvless
+
+# site settings
+taglong: "Technical product owner<br/>and problem solver"
+tagshort: "" 
+
+# author settings
+author:
+  name: Amy Gormley
+  email: hello@amygormley.co.uk
+photo: assets/files/avatar.jpeg
+
+# social media links
+social:
+  linkedin: amy-gormley-b48b747a
+  github: amygormley
+
+permalink: pretty
+exclude:
+  - README.md
+
+plugins:
+  - jekyll-target-blank
