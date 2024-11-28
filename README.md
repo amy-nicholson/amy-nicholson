@@ -1,12 +1,12 @@
-# amygormley
+# amy-nicholson
 
 :wave: I'm Amy.
 
 :memo: Technical product owner
 
-:link: [amygormley.co.uk](https://amygormley.co.uk)
+:link: [amy-nicholson.co.uk](https://amy-nicholson.co.uk)
 
-:email: [hello@amygormley.co.uk](mailto://hello@amygormley.co.uk)
+:email: [hello@amy-nicholson.co.uk](mailto://hello@amy-nicholson.co.uk)
 
 :round_pushpin: [Glasgow, UK](https://maps.app.goo.gl/tFeVNcBn823Fy1Bs5)
 

@@ -1,7 +1,7 @@
-title: Amy Gormley
-description: Amy Gormley's personal website
+title: Amy Nicholson
+description: Amy Nicholson's personal website
 baseurl: ""
-url: https://amygormley.co.uk
+url: https://amy-nicholson.co.uk
 
 theme: cvless
 
@@ -11,14 +11,14 @@ tagshort: ""
 
 # author settings
 author:
-  name: Amy Gormley
-  email: hello@amygormley.co.uk
+  name: Amy Nicholson
+  email: hello@amy-nicholson.co.uk
 photo: assets/files/avatar.jpeg
 
 # social media links
 social:
-  linkedin: amy-gormley-b48b747a
-  github: amygormley
+  linkedin: amy-nicholson-b48b747a
+  github: amy-nicholson
 
 permalink: pretty
 exclude:
