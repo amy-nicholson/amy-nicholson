@@ -9,6 +9,6 @@ title: Home
 
 I'm Amy.
 
-I'm a technical product owner with a background in software engineering.
+I'm a Product Specialist with a background in software engineering.
 
 Get in touch with me via my social profiles above, or at [hello@amy-nicholson.co.uk](mailto:hello@amy-nicholson.co.uk).

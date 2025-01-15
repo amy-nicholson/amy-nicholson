@@ -2,7 +2,7 @@
 
 :wave: I'm Amy.
 
-:memo: Technical product owner
+:memo: Product Specialist
 
 :link: [amy-nicholson.co.uk](https://amy-nicholson.co.uk)
 
