@@ -16,7 +16,7 @@ Proven track record of leading crossfunctional teams throughout the entire produ
 ## Currently
 
 * **2021 - Present**:
-Senior Product Specialist @ _AND Digital_
+Senior Product Consultant @ _AND Digital_
 
 As a senior member of the product community, I have gained diverse experience across various roles and industries.
 
